@@ -1,0 +1,8 @@
+.navigate{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    justify-content: center;
+    width: 100vw;
+    height: 100px;
+}
